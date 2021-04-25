@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Floating Menu Demo</string>
+    <string name="hold_to_open_menu">Hold to open menu</string>
+</resources>
